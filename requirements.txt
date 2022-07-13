@@ -1,0 +1,4 @@
+streamlit==1.10.0
+matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
+pandas @ file:///C:/ci/pandas_1602083338010/work
+plotly==5.6.0
