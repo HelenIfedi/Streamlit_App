@@ -54,7 +54,7 @@ Data source: [Github: The Center for Systems Science and Engineering (CSSE) at J
 b1, b2 = st.columns(2)
 b1.write('## Animation')
 b1.markdown('[Click here to see Animated Artefact](http://143.198.68.242:5006/bokeh_animation7b)')
-b2.write('## Complex Covid Dashboard')
+b2.write('## Covid Dashboard')
 b2.markdown('[Click here to see Covid Dashboard(Complex Artefact)](http://128.199.40.42:5006/bokeh_app_deploy2)')
 
 
